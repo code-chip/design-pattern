@@ -1,2 +1,2 @@
-# design-pattern-example
-Example of design pattern for study and query
+# design-pattern
+Example of design pattern for study and consultation
